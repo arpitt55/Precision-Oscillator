@@ -4,8 +4,8 @@
 Designed a closed-loop feedback system to stabilize a custom Op-Amp and MOSFET-based Voltage Controlled Oscillator (VCO). Implemented an analog PID controller to ensure high stability.
 
 ## Simulation Results
-![Circuit Schematic](image.png)
-
+![Circuit Schematic](VCO_output_frequency.png)
+![Circuit Schematic](frequency_to_voltage_converter_output_voltage.jpeg)
 
 ## How to Run
 1. Download the `.asc` file.
